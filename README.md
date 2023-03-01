@@ -39,9 +39,5 @@ This is **Full stack**  app using **ReactJs**, **NodeJS**, **ExpressJS** and **M
 - Admin can **update**  and **delete** specific food.
 - Admin has the access to  view all **user's** name and email(password is hashed using bcrypt) and delete user account.
 
-#### Upcoming features
-- Handling **Payment** using **stripe**
-- Advanced **cart** functionalities.
-- **Real time** food tracking using **socket.io**
 
 
