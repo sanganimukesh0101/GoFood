@@ -1,19 +1,16 @@
 
-GoFood
-# **MERN stack Restaurant App**
+# **GoFood**
 
 
 
-This is **Full stack** Restaurant app using **NextJS**(a production ready framework for ReactJS), **NodeJS**, **ExpressJS**, **MongoDB** and **TailwindCSS**.
-I have created my own server using **NodeJS** and **ExpressJS** and **MongoDB**(noSQL database) as databse to store the information.
+This is **Full stack**  app using **ReactJs**, **NodeJS**, **ExpressJS** and **MongoDB** 
+
 
 ### Tools used to build this project
 - **NextJS** (a production ready framework for **ReactJS**)
 - **NodeJS**
 - **ExpressJS**
 - **MongoDB Atlas**
-- **TailwindCSS**
-- **Material UI**
 - **Cloudinary** (to host images)
 
 ### Project Features
@@ -30,7 +27,6 @@ I have created my own server using **NodeJS** and **ExpressJS** and **MongoDB**(
 
 
 #### Customer perspective
--  **Beautiful** and **Modern** UI using modern tools like  **TailwindCSS** and **MaterialUI**
 - Customer can navigate to multiple pages.(Authentication is not required) 
 - Customer have an option to choose food from food categories
 - Customer can **Register** new account and can **Sign in** to the application.
